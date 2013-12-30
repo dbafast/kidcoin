@@ -1,0 +1,9 @@
+Building Kidcoin
+
+See doc/readme-qt.rst for instructions on building Kidcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kidcoin.
+
+See doc/build-*.txt for instructions on building kidcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kidcoin.
