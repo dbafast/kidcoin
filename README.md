@@ -1,0 +1,4 @@
+kidcoin
+=======
+
+cryptocurrency kidcoin
